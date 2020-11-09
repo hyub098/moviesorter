@@ -1,0 +1,13 @@
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.exe
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.deps.json
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.runtimeconfig.json
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.runtimeconfig.dev.json
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.dll
+D:\Projects\MoviesSorter\bin\Debug\netcoreapp3.1\MoviesSorter.pdb
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.csprojAssemblyReference.cache
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.AssemblyInfoInputs.cache
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.AssemblyInfo.cs
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.csproj.CoreCompileInputs.cache
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.dll
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.pdb
+D:\Projects\MoviesSorter\obj\Debug\netcoreapp3.1\MoviesSorter.genruntimeconfig.cache
